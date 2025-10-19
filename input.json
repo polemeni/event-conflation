@@ -1,0 +1,62 @@
+[
+  {
+    "id": "user_123",
+    "timestamp": "2025-01-01T14:23:05Z",
+    "payload": {}
+  },
+  {
+    "id": "user_123",
+    "timestamp": "2025-01-01T14:23:15Z",
+    "payload": {}
+  },
+  {
+    "id": "user_123",
+    "timestamp": "2025-01-01T14:23:25Z",
+    "payload": {}
+  },
+  {
+    "id": "user_456",
+    "timestamp": "2025-01-01T14:23:10Z",
+    "payload": {}
+  },
+  {
+    "id": "user_456",
+    "timestamp": "2025-01-01T14:23:20Z",
+    "payload": {}
+  },
+  {
+    "id": "user_789",
+    "timestamp": "2025-01-01T14:23:05Z",
+    "payload": {}
+  },
+  {
+    "id": "user_789",
+    "timestamp": "2025-01-01T14:23:30Z",
+    "payload": {}
+  },
+  {
+    "id": "user_999",
+    "timestamp": "2025-01-01T14:23:06Z",
+    "payload": {}
+  },
+  {
+    "id": "user_999",
+    "timestamp": "2025-01-01T14:23:07Z",
+    "payload": {}
+  },
+  {
+    "id": "user_999",
+    "timestamp": "2025-01-01T14:23:08Z",
+    "payload": {}
+  },
+  {
+    "id": "user_999",
+    "timestamp": "2025-01-01T14:23:09Z",
+    "payload": {}
+  },
+  {
+    "id": "user_999",
+    "timestamp": "2025-01-01T14:23:10Z",
+    "payload": {}
+  }
+]

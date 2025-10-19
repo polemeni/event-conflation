@@ -1,0 +1,26 @@
+[
+  {
+    "id": "user_valid",
+    "timestamp": "2025-01-01T14:23:05Z",
+    "payload": {"action": "valid"}
+  },
+  {
+    "id": "",
+    "timestamp": "2025-01-01T14:23:10Z",
+    "payload": {}
+  },
+  {
+    "timestamp": "2025-01-01T14:23:15Z",
+    "payload": {}
+  },
+  {
+    "id": "user_invalid_timestamp",
+    "timestamp": "invalid-timestamp",
+    "payload": {}
+  },
+  {
+    "id": "user_invalid_payload",
+    "timestamp": "2025-01-01T14:23:20Z",
+    "payload": "not-a-dict"
+  }
+]

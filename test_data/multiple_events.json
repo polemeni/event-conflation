@@ -1,0 +1,22 @@
+[
+  {
+    "id": "user_001",
+    "timestamp": "2025-01-01T14:23:05Z",
+    "payload": {"action": "login"}
+  },
+  {
+    "id": "user_001",
+    "timestamp": "2025-01-01T14:23:10Z",
+    "payload": {"action": "view_page"}
+  },
+  {
+    "id": "user_001",
+    "timestamp": "2025-01-01T14:23:15Z",
+    "payload": {"action": "click_button"}
+  },
+  {
+    "id": "user_001",
+    "timestamp": "2025-01-01T14:23:20Z",
+    "payload": {"action": "logout"}
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "id": "user_123",
+    "timestamp": "2025-01-01T14:23:05Z",
+    "payload": {"event": 1}
+  },
+  {
+    "id": "user_123",
+    "timestamp": "2025-01-01T14:23:15Z",
+    "payload": {"event": 2}
+  },
+  {
+    "id": "user_123",
+    "timestamp": "2025-01-01T14:23:25Z",
+    "payload": {"event": 3}
+  }
+]

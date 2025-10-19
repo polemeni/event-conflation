@@ -1,0 +1,627 @@
+[
+  {
+    "operation": "put_item",
+    "table_name": "conflated_events",
+    "item": {
+      "id": {
+        "S": "user_789"
+      },
+      "first_event_timestamp": {
+        "S": "2025-01-01T14:23:05+00:00"
+      },
+      "last_event_timestamp": {
+        "S": "2025-01-01T14:23:30+00:00"
+      },
+      "event_count": {
+        "N": "2"
+      },
+      "final_payload": {
+        "S": "{}"
+      },
+      "conflation_timestamp": {
+        "S": "2025-10-19T17:10:18.971316+00:00"
+      }
+    },
+    "timestamp": "2025-10-19T13:10:18.977772"
+  },
+  {
+    "operation": "put_item",
+    "table_name": "conflated_events",
+    "item": {
+      "id": {
+        "S": "user_999"
+      },
+      "first_event_timestamp": {
+        "S": "2025-01-01T14:23:06+00:00"
+      },
+      "last_event_timestamp": {
+        "S": "2025-01-01T14:23:10+00:00"
+      },
+      "event_count": {
+        "N": "5"
+      },
+      "final_payload": {
+        "S": "{}"
+      },
+      "conflation_timestamp": {
+        "S": "2025-10-19T17:10:18.972065+00:00"
+      }
+    },
+    "timestamp": "2025-10-19T13:10:18.977786"
+  },
+  {
+    "operation": "put_item",
+    "table_name": "conflated_events",
+    "item": {
+      "id": {
+        "S": "user_456"
+      },
+      "first_event_timestamp": {
+        "S": "2025-01-01T14:23:10+00:00"
+      },
+      "last_event_timestamp": {
+        "S": "2025-01-01T14:23:20+00:00"
+      },
+      "event_count": {
+        "N": "2"
+      },
+      "final_payload": {
+        "S": "{}"
+      },
+      "conflation_timestamp": {
+        "S": "2025-10-19T17:10:18.972152+00:00"
+      }
+    },
+    "timestamp": "2025-10-19T13:10:18.977795"
+  },
+  {
+    "operation": "put_item",
+    "table_name": "conflated_events",
+    "item": {
+      "id": {
+        "S": "user_123"
+      },
+      "first_event_timestamp": {
+        "S": "2025-01-01T14:23:05+00:00"
+      },
+      "last_event_timestamp": {
+        "S": "2025-01-01T14:23:25+00:00"
+      },
+      "event_count": {
+        "N": "3"
+      },
+      "final_payload": {
+        "S": "{}"
+      },
+      "conflation_timestamp": {
+        "S": "2025-10-19T17:10:18.972237+00:00"
+      }
+    },
+    "timestamp": "2025-10-19T13:10:18.977805"
+  },
+  {
+    "operation": "put_item",
+    "table_name": "conflated_events",
+    "item": {
+      "id": {
+        "S": "user_999"
+      },
+      "first_event_timestamp": {
+        "S": "2025-01-01T14:23:06+00:00"
+      },
+      "last_event_timestamp": {
+        "S": "2025-01-01T14:23:10+00:00"
+      },
+      "event_count": {
+        "N": "5"
+      },
+      "final_payload": {
+        "S": "{}"
+      },
+      "conflation_timestamp": {
+        "S": "2025-10-19T17:10:15.946080+00:00"
+      }
+    },
+    "timestamp": "2025-10-19T13:10:20.950282"
+  },
+  {
+    "operation": "put_item",
+    "table_name": "conflated_events",
+    "item": {
+      "id": {
+        "S": "user_789"
+      },
+      "first_event_timestamp": {
+        "S": "2025-01-01T14:23:05+00:00"
+      },
+      "last_event_timestamp": {
+        "S": "2025-01-01T14:23:30+00:00"
+      },
+      "event_count": {
+        "N": "2"
+      },
+      "final_payload": {
+        "S": "{}"
+      },
+      "conflation_timestamp": {
+        "S": "2025-10-19T17:10:15.946852+00:00"
+      }
+    },
+    "timestamp": "2025-10-19T13:10:20.950292"
+  },
+  {
+    "operation": "put_item",
+    "table_name": "conflated_events",
+    "item": {
+      "id": {
+        "S": "user_456"
+      },
+      "first_event_timestamp": {
+        "S": "2025-01-01T14:23:10+00:00"
+      },
+      "last_event_timestamp": {
+        "S": "2025-01-01T14:23:20+00:00"
+      },
+      "event_count": {
+        "N": "2"
+      },
+      "final_payload": {
+        "S": "{}"
+      },
+      "conflation_timestamp": {
+        "S": "2025-10-19T17:10:15.951801+00:00"
+      }
+    },
+    "timestamp": "2025-10-19T13:10:20.950301"
+  },
+  {
+    "operation": "put_item",
+    "table_name": "conflated_events",
+    "item": {
+      "id": {
+        "S": "user_123"
+      },
+      "first_event_timestamp": {
+        "S": "2025-01-01T14:23:05+00:00"
+      },
+      "last_event_timestamp": {
+        "S": "2025-01-01T14:23:25+00:00"
+      },
+      "event_count": {
+        "N": "3"
+      },
+      "final_payload": {
+        "S": "{}"
+      },
+      "conflation_timestamp": {
+        "S": "2025-10-19T17:10:15.951853+00:00"
+      }
+    },
+    "timestamp": "2025-10-19T13:10:20.950307"
+  },
+  {
+    "operation": "put_item",
+    "table_name": "conflated_events",
+    "item": {
+      "id": {
+        "S": "user_999"
+      },
+      "first_event_timestamp": {
+        "S": "2025-01-01T14:23:06+00:00"
+      },
+      "last_event_timestamp": {
+        "S": "2025-01-01T14:23:10+00:00"
+      },
+      "event_count": {
+        "N": "5"
+      },
+      "final_payload": {
+        "S": "{}"
+      },
+      "conflation_timestamp": {
+        "S": "2025-10-19T17:16:18.185343+00:00"
+      }
+    },
+    "timestamp": "2025-10-19T13:16:18.192586"
+  },
+  {
+    "operation": "put_item",
+    "table_name": "conflated_events",
+    "item": {
+      "id": {
+        "S": "user_456"
+      },
+      "first_event_timestamp": {
+        "S": "2025-01-01T14:23:10+00:00"
+      },
+      "last_event_timestamp": {
+        "S": "2025-01-01T14:23:20+00:00"
+      },
+      "event_count": {
+        "N": "2"
+      },
+      "final_payload": {
+        "S": "{}"
+      },
+      "conflation_timestamp": {
+        "S": "2025-10-19T17:16:18.185587+00:00"
+      }
+    },
+    "timestamp": "2025-10-19T13:16:18.192622"
+  },
+  {
+    "operation": "put_item",
+    "table_name": "conflated_events",
+    "item": {
+      "id": {
+        "S": "user_789"
+      },
+      "first_event_timestamp": {
+        "S": "2025-01-01T14:23:05+00:00"
+      },
+      "last_event_timestamp": {
+        "S": "2025-01-01T14:23:30+00:00"
+      },
+      "event_count": {
+        "N": "2"
+      },
+      "final_payload": {
+        "S": "{}"
+      },
+      "conflation_timestamp": {
+        "S": "2025-10-19T17:16:18.185675+00:00"
+      }
+    },
+    "timestamp": "2025-10-19T13:16:18.192641"
+  },
+  {
+    "operation": "put_item",
+    "table_name": "conflated_events",
+    "item": {
+      "id": {
+        "S": "user_123"
+      },
+      "first_event_timestamp": {
+        "S": "2025-01-01T14:23:05+00:00"
+      },
+      "last_event_timestamp": {
+        "S": "2025-01-01T14:23:25+00:00"
+      },
+      "event_count": {
+        "N": "3"
+      },
+      "final_payload": {
+        "S": "{}"
+      },
+      "conflation_timestamp": {
+        "S": "2025-10-19T17:16:18.185804+00:00"
+      }
+    },
+    "timestamp": "2025-10-19T13:16:18.192676"
+  },
+  {
+    "operation": "put_item",
+    "table_name": "conflated_events",
+    "item": {
+      "id": {
+        "S": "user_999"
+      },
+      "first_event_timestamp": {
+        "S": "2025-01-01T14:23:06+00:00"
+      },
+      "last_event_timestamp": {
+        "S": "2025-01-01T14:23:10+00:00"
+      },
+      "event_count": {
+        "N": "5"
+      },
+      "final_payload": {
+        "S": "{}"
+      },
+      "conflation_timestamp": {
+        "S": "2025-10-19T17:16:59.240233+00:00"
+      }
+    },
+    "timestamp": "2025-10-19T13:16:59.245963"
+  },
+  {
+    "operation": "put_item",
+    "table_name": "conflated_events",
+    "item": {
+      "id": {
+        "S": "user_456"
+      },
+      "first_event_timestamp": {
+        "S": "2025-01-01T14:23:10+00:00"
+      },
+      "last_event_timestamp": {
+        "S": "2025-01-01T14:23:20+00:00"
+      },
+      "event_count": {
+        "N": "2"
+      },
+      "final_payload": {
+        "S": "{}"
+      },
+      "conflation_timestamp": {
+        "S": "2025-10-19T17:16:59.240415+00:00"
+      }
+    },
+    "timestamp": "2025-10-19T13:16:59.245981"
+  },
+  {
+    "operation": "put_item",
+    "table_name": "conflated_events",
+    "item": {
+      "id": {
+        "S": "user_123"
+      },
+      "first_event_timestamp": {
+        "S": "2025-01-01T14:23:05+00:00"
+      },
+      "last_event_timestamp": {
+        "S": "2025-01-01T14:23:25+00:00"
+      },
+      "event_count": {
+        "N": "3"
+      },
+      "final_payload": {
+        "S": "{}"
+      },
+      "conflation_timestamp": {
+        "S": "2025-10-19T17:16:59.240473+00:00"
+      }
+    },
+    "timestamp": "2025-10-19T13:16:59.245989"
+  },
+  {
+    "operation": "put_item",
+    "table_name": "conflated_events",
+    "item": {
+      "id": {
+        "S": "user_789"
+      },
+      "first_event_timestamp": {
+        "S": "2025-01-01T14:23:05+00:00"
+      },
+      "last_event_timestamp": {
+        "S": "2025-01-01T14:23:30+00:00"
+      },
+      "event_count": {
+        "N": "2"
+      },
+      "final_payload": {
+        "S": "{}"
+      },
+      "conflation_timestamp": {
+        "S": "2025-10-19T17:16:59.240520+00:00"
+      }
+    },
+    "timestamp": "2025-10-19T13:16:59.245997"
+  },
+  {
+    "operation": "put_item",
+    "table_name": "conflated_events",
+    "item": {
+      "id": {
+        "S": "user_999"
+      },
+      "first_event_timestamp": {
+        "S": "2025-01-01T14:23:06+00:00"
+      },
+      "last_event_timestamp": {
+        "S": "2025-01-01T14:23:10+00:00"
+      },
+      "event_count": {
+        "N": "5"
+      },
+      "final_payload": {
+        "S": "{}"
+      },
+      "conflation_timestamp": {
+        "S": "2025-10-19T17:17:35.496144+00:00"
+      }
+    },
+    "timestamp": "2025-10-19T13:17:35.504631"
+  },
+  {
+    "operation": "put_item",
+    "table_name": "conflated_events",
+    "item": {
+      "id": {
+        "S": "user_123"
+      },
+      "first_event_timestamp": {
+        "S": "2025-01-01T14:23:05+00:00"
+      },
+      "last_event_timestamp": {
+        "S": "2025-01-01T14:23:25+00:00"
+      },
+      "event_count": {
+        "N": "3"
+      },
+      "final_payload": {
+        "S": "{}"
+      },
+      "conflation_timestamp": {
+        "S": "2025-10-19T17:17:35.497120+00:00"
+      }
+    },
+    "timestamp": "2025-10-19T13:17:35.504660"
+  },
+  {
+    "operation": "put_item",
+    "table_name": "conflated_events",
+    "item": {
+      "id": {
+        "S": "user_789"
+      },
+      "first_event_timestamp": {
+        "S": "2025-01-01T14:23:05+00:00"
+      },
+      "last_event_timestamp": {
+        "S": "2025-01-01T14:23:30+00:00"
+      },
+      "event_count": {
+        "N": "2"
+      },
+      "final_payload": {
+        "S": "{}"
+      },
+      "conflation_timestamp": {
+        "S": "2025-10-19T17:17:35.497269+00:00"
+      }
+    },
+    "timestamp": "2025-10-19T13:17:35.504676"
+  },
+  {
+    "operation": "put_item",
+    "table_name": "conflated_events",
+    "item": {
+      "id": {
+        "S": "user_456"
+      },
+      "first_event_timestamp": {
+        "S": "2025-01-01T14:23:10+00:00"
+      },
+      "last_event_timestamp": {
+        "S": "2025-01-01T14:23:20+00:00"
+      },
+      "event_count": {
+        "N": "2"
+      },
+      "final_payload": {
+        "S": "{}"
+      },
+      "conflation_timestamp": {
+        "S": "2025-10-19T17:17:35.497937+00:00"
+      }
+    },
+    "timestamp": "2025-10-19T13:17:35.504690"
+  },
+  {
+    "operation": "put_item",
+    "table_name": "conflated_events",
+    "item": {
+      "id": {
+        "S": "user_999"
+      },
+      "first_event_timestamp": {
+        "S": "2025-01-01T14:23:06+00:00"
+      },
+      "last_event_timestamp": {
+        "S": "2025-01-01T14:23:10+00:00"
+      },
+      "event_count": {
+        "N": "5"
+      },
+      "final_payload": {
+        "S": "{}"
+      },
+      "conflation_timestamp": {
+        "S": "2025-10-19T17:18:39.992911+00:00"
+      }
+    },
+    "timestamp": "2025-10-19T13:18:40.003885"
+  },
+  {
+    "operation": "put_item",
+    "table_name": "conflated_events",
+    "item": {
+      "id": {
+        "S": "user_456"
+      },
+      "first_event_timestamp": {
+        "S": "2025-01-01T14:23:10+00:00"
+      },
+      "last_event_timestamp": {
+        "S": "2025-01-01T14:23:20+00:00"
+      },
+      "event_count": {
+        "N": "2"
+      },
+      "final_payload": {
+        "S": "{}"
+      },
+      "conflation_timestamp": {
+        "S": "2025-10-19T17:18:39.993723+00:00"
+      }
+    },
+    "timestamp": "2025-10-19T13:18:40.003893"
+  },
+  {
+    "operation": "put_item",
+    "table_name": "conflated_events",
+    "item": {
+      "id": {
+        "S": "user_123"
+      },
+      "first_event_timestamp": {
+        "S": "2025-01-01T14:23:05+00:00"
+      },
+      "last_event_timestamp": {
+        "S": "2025-01-01T14:23:25+00:00"
+      },
+      "event_count": {
+        "N": "3"
+      },
+      "final_payload": {
+        "S": "{}"
+      },
+      "conflation_timestamp": {
+        "S": "2025-10-19T17:18:39.993777+00:00"
+      }
+    },
+    "timestamp": "2025-10-19T13:18:40.003898"
+  },
+  {
+    "operation": "put_item",
+    "table_name": "conflated_events",
+    "item": {
+      "id": {
+        "S": "user_789"
+      },
+      "first_event_timestamp": {
+        "S": "2025-01-01T14:23:05+00:00"
+      },
+      "last_event_timestamp": {
+        "S": "2025-01-01T14:23:30+00:00"
+      },
+      "event_count": {
+        "N": "2"
+      },
+      "final_payload": {
+        "S": "{}"
+      },
+      "conflation_timestamp": {
+        "S": "2025-10-19T17:18:39.993810+00:00"
+      }
+    },
+    "timestamp": "2025-10-19T13:18:40.003909"
+  },
+  {
+    "operation": "put_item",
+    "table_name": "conflated_events",
+    "item": {
+      "id": {
+        "S": "user_valid"
+      },
+      "first_event_timestamp": {
+        "S": "2025-01-01T14:23:05+00:00"
+      },
+      "last_event_timestamp": {
+        "S": "2025-01-01T14:23:05+00:00"
+      },
+      "event_count": {
+        "N": "1"
+      },
+      "final_payload": {
+        "S": "{\"action\": \"valid\"}"
+      },
+      "conflation_timestamp": {
+        "S": "2025-10-19T17:19:19.861716+00:00"
+      }
+    },
+    "timestamp": "2025-10-19T13:19:19.872823"
+  }
+]

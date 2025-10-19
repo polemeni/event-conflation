@@ -1,0 +1,10 @@
+{
+  "conflation_interval": 30.0,
+  "input_file": "input.json",
+  "log_level": "INFO",
+  "downstream": {
+    "type": "dynamodb_simulation",
+    "table_name": "conflated_events",
+    "region": "us-east-1"
+  }
+}

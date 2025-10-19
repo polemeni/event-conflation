@@ -1,0 +1,27 @@
+[
+  {
+    "id": "user_burst",
+    "timestamp": "2025-01-01T14:23:05Z",
+    "payload": {"action": "start"}
+  },
+  {
+    "id": "user_burst",
+    "timestamp": "2025-01-01T14:23:05.1Z",
+    "payload": {"action": "step1"}
+  },
+  {
+    "id": "user_burst",
+    "timestamp": "2025-01-01T14:23:05.2Z",
+    "payload": {"action": "step2"}
+  },
+  {
+    "id": "user_burst",
+    "timestamp": "2025-01-01T14:23:05.3Z",
+    "payload": {"action": "step3"}
+  },
+  {
+    "id": "user_burst",
+    "timestamp": "2025-01-01T14:23:05.4Z",
+    "payload": {"action": "complete"}
+  }
+]
