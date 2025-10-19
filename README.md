@@ -19,7 +19,7 @@ The system is designed with scalability and reliability in mind:
 
 ```
 ┌─────────────────┐    ┌──────────────────┐    ┌─────────────────┐    ┌─────────────────┐
-│   Input Source  │───▶│  Event Ingestion │───▶│ Conflation Engine│───▶│ Downstream Emit │
+│   Input Source  │───▶│  Event Ingestion │───▶│Conflation Engine│───▶│ Downstream Emit │
 │  (JSON Files)   │    │     Handler      │    │                 │    │  (DynamoDB Sim) │
 └─────────────────┘    └──────────────────┘    └─────────────────┘    └─────────────────┘
 ```
@@ -277,6 +277,3 @@ The test suite covers:
 - **Docker Support**: Add containerization for easy deployment
 - **CI/CD Pipeline**: Add automated testing and deployment
 
-## License
-
-[Add your license information here]
